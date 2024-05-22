@@ -17,7 +17,7 @@ can be run.
 - **Python Shell**: an interactive interpreter that can be accessed from the
 command line.
 - **Data Type**: a specific kind of data. The Python interpreter uses these
-types to determine which actions can be performed on different data items.
+types to determine which actions can be perforted on different data items.
 - **Exception**: a type of error that can be predicted and handled without
 causing a program to crash.
 - **Code Block**: a collection of code that is interpreted together. Python
